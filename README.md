@@ -1,6 +1,6 @@
 # Ember-cli-jq-tree
 
-This README outlines the details of collaborating on this Ember addon.
+jqTree component.
 
 ## Installation
 
